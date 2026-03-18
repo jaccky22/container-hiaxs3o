@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jaccky22",
+  "repo": "container-hiaxs3o",
+  "name": "jaccky22",
+  "email": "mj4k00@gmail.com",
+}
